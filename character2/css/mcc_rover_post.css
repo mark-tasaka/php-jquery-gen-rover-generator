@@ -1,0 +1,257 @@
+/*Post Data
+Mark Tasaka April 2018
+Mutant Crawl Classics Character Generator*/
+
+
+#characterName{
+    position: absolute;
+    top: 130px;
+    left: 60px;
+	font-size: 0.9em;
+}
+
+#arcAlignment{
+    position: absolute;
+    top: 130px;
+    left: 335px;
+	font-size: 0.9em;
+}
+
+
+#playerName{
+    position: absolute;
+    top: 195px;
+    left: 540px;
+	font-size: 0.9em;
+}
+
+
+#artifactName1{
+    position: absolute;
+    top: 755px;
+    left: 450px;
+    width: 180px;
+	font-size: 0.8em;
+}
+
+#artifactCheck1{
+    position: absolute;
+    top: 755px;
+    left: 660px;
+	font-size: 0.8em;
+}
+
+#artifactEffect1{
+    position: absolute;
+    top: 755px;
+    left: 700px;
+    width: 210px;
+	font-size: 0.5em;
+}
+
+
+#artifactName2{
+    position: absolute;
+    top: 800px;
+    left: 450px;
+    width: 180px;
+	font-size: 0.8em;
+}
+
+#artifactCheck2{
+    position: absolute;
+    top: 800px;
+    left: 660px;
+	font-size: 0.8em;
+}
+
+#artifactEffect2{
+    position: absolute;
+    top: 800px;
+    left: 700px;
+    width: 210px;
+	font-size: 0.5em;
+}
+
+
+#artifactName3{
+    position: absolute;
+    top: 850px;
+    left: 450px;
+    width: 180px;
+	font-size: 0.8em;
+}
+
+#artifactCheck3{
+    position: absolute;
+    top: 850px;
+    left: 660px;
+	font-size: 0.8em;
+}
+
+#artifactEffect3{
+    position: absolute;
+    top: 850px;
+    left: 700px;
+    width: 210px;
+	font-size: 0.5em;
+}
+
+
+#artifactName4{
+    position: absolute;
+    top: 900px;
+    left: 450px;
+    width: 180px;
+	font-size: 0.8em;
+}
+
+#artifactCheck4{
+    position: absolute;
+    top: 900px;
+    left: 660px;
+	font-size: 0.8em;
+}
+
+#artifactEffect4{
+    position: absolute;
+    top: 900px;
+    left: 700px;
+    width: 210px;
+	font-size: 0.5em;
+}
+
+
+
+#weaponDescription1{
+    position: absolute;
+    top: 910px;
+    left: 60px;
+	font-size: 0.8em;
+}
+
+#weaponDamage1{
+    position: absolute;
+    top: 910px;
+    left: 330px;
+	font-size: 0.8em;
+}
+
+#weaponDescription2{
+    position: absolute;
+    top: 945px;
+    left: 60px;
+	font-size: 0.8em;
+}
+
+#weaponDamage2{
+    position: absolute;
+    top: 945px;
+    left: 330px;
+	font-size: 0.8em;
+}
+
+#weaponDescription3{
+    position: absolute;
+    top: 980px;
+    left: 60px;
+	font-size: 0.8em;
+}
+
+#weaponDamage3{
+    position: absolute;
+    top: 980px;
+    left: 330px;
+	font-size: 0.8em;
+}
+
+#weaponDescription4{
+    position: absolute;
+    top: 1015px;
+    left: 60px;
+	font-size: 0.8em;
+}
+
+#weaponDamage4{
+    position: absolute;
+    top: 1015px;
+    left: 330px;
+	font-size: 0.8em;
+}
+
+#armourDescription{
+    position: absolute;
+    top: 1085px;
+    left: 60px;
+    width: 230px;
+	font-size: 0.8em;
+}
+
+#armourBonus{
+    position: absolute;
+    top: 1085px;
+    left: 330px;
+	font-size: 0.8em;
+}
+
+
+#armourPenalityCheck{
+    position: absolute;
+    top: 1133px;
+    left: 150px;
+	font-size: 0.7em;
+}
+
+#armourSpeedPen{
+    position: absolute;
+    top: 1133px;
+    left: 262px;
+	font-size: 0.7em;
+}
+
+#fumbleArmourValue{
+    position: absolute;
+    top: 1133px;
+    left: 353px;
+	font-size: 0.7em;
+}
+
+#equipmentGear{
+    position: absolute;
+    top: 1000px;
+    left: 450px;
+    width: 460px;
+	font-size: 0.6em;
+}
+
+
+#equipmentGear{
+    position: absolute;
+    top: 1000px;
+    left: 610px;
+    width: 295px;
+	font-size: 0.6em;
+}
+
+#modifiedFumble{
+    position: absolute;
+    top: 545px;
+    left: 560px;
+	font-size: 0.9em;
+}
+
+#modifiedSpeed{
+    position: absolute;
+    top: 505px;
+    left:  565px;
+	font-size: 1.2em;
+}
+
+
+#modifiedArmourClass{
+	position: absolute;
+    top: 290px;
+    left: 70px;
+	font-size: 1.5em;
+}
+
